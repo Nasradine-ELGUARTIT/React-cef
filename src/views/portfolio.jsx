@@ -16,7 +16,7 @@ export default function Portfolio() {
         </div>
         <div class="project">
           <img
-            src="../img/portfolio/restaurant-japonais.jpg"
+            src="../../public/img/restaurant-japonais.jpg"
             alt="Restaurant Akira"
           />
           <h3>Restaurant Akira</h3>
@@ -39,7 +39,7 @@ export default function Portfolio() {
           </a>
         </div>
         <div class="project">
-          <img src="../img/portfolio/seo.jpg" alt="SEO" />
+          <img src="../../public/img/portfolio/seo.jpg" alt="SEO" />
           <h3>SEO</h3>
           <p>Amélioration du référencement d'un site e-commerce</p>
           <p>Utilisation des outils SEO</p>
